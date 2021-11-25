@@ -1,0 +1,13 @@
+{
+    "Music": [
+      {
+        "id": 0,
+        "name": "50 pourcent",
+        "author": "Orelsan",
+        "youtube": "https://www.youtube.com/watch?v=Li0pvi1Psro",
+        "style": "rap",
+        "annee": "2014",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/22/Perdu-davance-by-orelsan.jpg"
+      }
+    ]
+}
