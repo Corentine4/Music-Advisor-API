@@ -17,6 +17,15 @@
         "style": "rap",
         "annee": "2021",
         "thumbnail": "https://images.genius.com/edecb8558166ae7349c2d5cc43342467.300x300x1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Lifestyle",
+        "author": "Young-Thug",
+        "youtube": "https://www.youtube.com/watch?v=nGt_JGHYEO4",
+        "style": "rap",
+        "annee": "2014",
+        "thumbnail": "https://m.media-amazon.com/images/I/71yytg6-UVL._SS500_.jpg"
       }
     ]
 }
