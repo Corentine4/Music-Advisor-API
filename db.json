@@ -8,6 +8,15 @@
         "style": "rap",
         "annee": "2014",
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/22/Perdu-davance-by-orelsan.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Rebeu Fragile 2",
+        "author": "ICO",
+        "youtube": "https://www.youtube.com/watch?v=rUjcZiSS-C8",
+        "style": "rap",
+        "annee": "2021",
+        "thumbnail": "https://images.genius.com/edecb8558166ae7349c2d5cc43342467.300x300x1.jpg"
       }
     ]
 }
